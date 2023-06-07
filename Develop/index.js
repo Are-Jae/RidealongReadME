@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 
-const inquirer = require('inquirer');
+const inquirer = require('inquirer'); 
 
 const fs = require('fs');
 
@@ -55,7 +55,7 @@ function writeToFile(fileName, data) {
         console.log(`Congrats! README file '${fileName}' created successfully.`);
       });
 
-}
+} 
 
 // TODO: Create a function to initialize app
 function init() {
