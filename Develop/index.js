@@ -60,7 +60,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer
-    .promptUser(questions)
+    .prompt(questions)
     .then((answers) => {
       const markdownContent = generateMarkdown(answers); 
       const fileName = 'README.md';
