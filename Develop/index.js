@@ -13,27 +13,27 @@ const questions = [
     {
     type: "input",
     prompt: "What is the title of your project?",
-    name: "Title",
+    name: "title",
     },
      {
         type: "input",
         prompt: "What is your project for? Describe it in detail.",
-        name: "Description",
+        name: "description",
 
     }, {
         type: "input",
         prompt: "Table of contents",
-        name: "Table of contents", 
+        name: "tableOfcontents", 
 
     }, 
      {
         type: "input",
         prompt: "What are the installation instructions for your project?",
-        name: "Installation",
+        name: "installation",
     }, {
         type: "input",
-        prompt: "Usage",
-        name: "How will your app be used?", 
+        prompt: "How will your app be used?",
+        name: "usage", 
 
     }, {
         type: "input",
@@ -42,6 +42,14 @@ const questions = [
 
 
 
+    }, {
+      type: "input",
+      prompt: "Who contributed to this project?",
+      name: "contributing",
+    }, {
+      type: "input",
+      prompt: "tests",
+      name: "tests", 
     }
     
 

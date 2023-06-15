@@ -1,5 +1,5 @@
 ##  README Generator 
-This is a node js application
+This is a node js application to create a custom README file for a project 
 
 
 ## User
@@ -17,20 +17,22 @@ User will answer provided prompts to generate a readME file
 - Credits 
 
 ## Installation 
+Run "Node index.js" in terminal 
 
 
 ## Usage 
-
+-After running "node index.js" in the terminal prompts will begin 
+-User will answer propmts until the desired readME has been created 
+-A new markdown file will then be created in their local machine 
 
 ## License 
+MIT
 
 ## App 
 
-!(screenshot of terminal)[]
-
-!(screenshot of generated readme)[]
-
 !(link to recording of demo)[]
+
+!(screenshot of readME)[]
 
 ## Repository
 
@@ -38,3 +40,6 @@ https://github.com/Are-Jae/RidealongReadME
 
 
 ## Credit 
+-AskBCS
+-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+-https://github.com/Xandromus 
