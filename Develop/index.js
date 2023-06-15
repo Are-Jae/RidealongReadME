@@ -23,7 +23,7 @@ const questions = [
     }, {
         type: "input",
         prompt: "Table of contents",
-        name: "tableOfcontents", 
+        name: "Table of contents", 
 
     }, 
      {
