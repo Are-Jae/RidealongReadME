@@ -41,6 +41,6 @@ https://github.com/Are-Jae/RidealongReadME
 
 ## Credit 
 
--AskBCS
--[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide]
--[https://github.com/Xandromus] 
+- AskBCS
+- [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide]
+- [https://github.com/Xandromus] 
