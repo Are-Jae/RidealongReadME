@@ -30,9 +30,9 @@ MIT
 
 ## App 
 
-![link to recording of demo][https://drive.google.com/file/d/1nnHrkNNNO7o6nijPFaAKnLCxLJMWz4Vd/view?usp=drive_link]
+[link to recording of demo](https://drive.google.com/file/d/1nnHrkNNNO7o6nijPFaAKnLCxLJMWz4Vd/view?usp=drive_link)
 
-![READme Sample][Assets/readmeGen.JPG]
+[READme Sample](Assets/readmeGen.JPG)
 
 ## Repository
 
@@ -42,5 +42,5 @@ https://github.com/Are-Jae/RidealongReadME
 ## Credit 
 
 -AskBCS
--https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
--https://github.com/Xandromus 
+-[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide]
+-[https://github.com/Xandromus] 
